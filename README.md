@@ -1,2 +1,2 @@
 # samba
-Instalação e configuração
+**Instalação e configuração do serviço samba**
