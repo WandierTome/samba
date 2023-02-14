@@ -18,7 +18,7 @@ delete user script = /usr/sbin/userdel %u
 
 `sudo pdbedit -a aluno -f "Aluno Samba"`
 
-`sudo pdbedit -a aluno2 -f "Aluno2 Samna"`
+`sudo pdbedit -a aluno2 -f "Aluno2 Samba"`
 
 5º - Criar diretório "/mnt/samba/public" e o compartilhamento:
 
